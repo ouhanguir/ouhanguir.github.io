@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gautam Botrel | يوسف</title>
+    <link>/authors/gautam-botrel/</link>
+      <atom:link href="/authors/gautam-botrel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gautam Botrel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 23 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Gautam Botrel</title>
+      <link>/authors/gautam-botrel/</link>
+    </image>
+    
+    <item>
+      <title>EdMSM: Multi-Scalar-Multiplication for recursive SNARKs and more</title>
+      <link>/publication/journal/tches23/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/journal/tches23/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
